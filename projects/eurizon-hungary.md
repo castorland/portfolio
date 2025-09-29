@@ -1,9 +1,9 @@
 # Eurizon Hungary – Website Backend & Admin Panel
 
 **Client:** Eurizon Hungary (subsidiary of an international financial group)  
-**Period:** [Year/Years, e.g. 2022–2023]  
+**Period:** [2021 - now]  
 **Role:** Backend Developer  
-**Technologies:** Laravel, AlpineJS, Docker, MySQL, REST API
+**Technologies:** Laravel, Livewire, AlpineJS, Docker, MySQL, REST API, Redis
 
 ---
 
@@ -47,7 +47,7 @@ Developed and maintained the backend and admin panel for Eurizon Hungary’s cor
 *(If available, place images in the `assets/` directory and link them here)*
 
 ![Admin panel screenshot](../assets/eurizon-admin-screenshot.png)
-![System architecture diagram](../assets/eurizon-architecture.png)
+![System architecture diagram](../assets/eurizon-architecture.md)
 
 ---
 
