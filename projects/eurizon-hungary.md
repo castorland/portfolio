@@ -1,9 +1,9 @@
 # Eurizon Hungary – Website Backend & Admin Panel
 
-**Client:** Eurizon Hungary (subsidiary of an international financial group)
-**Period:** [2021 - present]
-**Role:** Backend Developer
-**Technologies:** Laravel, Livewire, AlpineJS, Docker, MySQL, REST API, Redis
+**Client:** Eurizon Hungary (subsidiary of an international financial group)  
+**Period:** [2021 - present]  
+**Role:** Backend Developer  
+**Technologies:** Laravel, Livewire, AlpineJS, Docker, MySQL, REST API, Redis  
 
 ---
 

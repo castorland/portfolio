@@ -1,8 +1,9 @@
 # Drumkiller Dobcentrum Budapest – Student, Lesson & Pass Management System
 
-**Client:** Drumkiller Dobcentrum Budapest
-**Period:** 2018–present
-**Role:** Full-stack Developer
+**Client:** Drumkiller Dobcentrum Budapest  
+**Period:** 2018–present  
+**Role:** Full-stack Developer  
+**Technologies:** Yii1, MySQL   
 
 ---
 
