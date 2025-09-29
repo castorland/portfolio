@@ -44,10 +44,8 @@ Developed and maintained the backend and admin panel for Eurizon Hungary’s cor
 
 ## Screenshots / Diagrams
 
-*(If available, place images in the `assets/` directory and link them here)*
-
-![Admin panel screenshot](../assets/eurizon-admin-screenshot.png)
-![System architecture diagram](../assets/eurizon-architecture.md)
+- ![Admin panel screenshot](../assets/eurizon-admin-screenshot.png)
+- [System architecture diagram](../assets/eurizon-architecture.md)
 
 ---
 
