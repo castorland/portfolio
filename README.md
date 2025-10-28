@@ -102,6 +102,11 @@ Senior Backend Developer with 8+ years of experience, specializing in PHP (Larav
 - **Summary:** Maintaining and developing admin/REST API features for a recipe-sharing platform.
 - [NewKitchen4You](https://nk4you.com)
 
+## 14. Enterprise Management System
+- **Tech:** PHP (legacy), MySQL, JavaScript
+- **Role:** Full-stack Developer
+- **Summary:** Developed a comprehensive ERP system with modules for inventory, sales, purchasing, and reporting.
+- (Private project, no public link) 
 ---
 
 ## Contact
