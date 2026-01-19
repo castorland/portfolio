@@ -115,6 +115,13 @@ Senior Backend Developer with 8+ years of experience, specializing in PHP (Larav
 - **Summary:** Built a Python-based finance management system for Hungarian entrepreneurs. Features automated PDF/RTF extraction, database storage with CRUD API, monthly income/expense tracking, and debt analysis. Includes Hungarian tax system integration (ÁFA, TB, SZOCHO, SZJA).
 - [GitHub Repository](https://github.com/castorland/business-finance-python)
 
+### 16. Financial Tracker
+- **Tech:** Python (Flask), React, TypeScript, SQLAlchemy, Chart.js
+- **Role:** Full-stack Developer
+- **Summary:** Comprehensive web-based finance management application for tracking both business and personal finances. Features automated bank statement import (CIB, Revolut), intelligent transaction categorization with machine learning, budget planning, and detailed expense analysis with interactive visualizations. Modern React + TypeScript frontend with Flask backend.
+- [GitHub Repository](https://github.com/castorland/financial-tracker)
+- [Project Details](projects/financial-tracker.md)
+
 ---
 
 ## Contact
