@@ -19,6 +19,7 @@ Senior Backend Developer with 8+ years of experience, specializing in PHP (Larav
 - AlpineJS
 - NextJS, React (basic)
 - Flutter (hybrid mobile apps)
+- Python (Flask, SQLAlchemy)
 
 ---
 
@@ -102,11 +103,18 @@ Senior Backend Developer with 8+ years of experience, specializing in PHP (Larav
 - **Summary:** Maintaining and developing admin/REST API features for a recipe-sharing platform.
 - [NewKitchen4You](https://nk4you.com)
 
-## 14. Enterprise Management System
+### 14. Enterprise Management System
 - **Tech:** PHP (legacy), MySQL, JavaScript
 - **Role:** Full-stack Developer
 - **Summary:** Developed a comprehensive ERP system with modules for inventory, sales, purchasing, and reporting.
-- (Private project, no public link) 
+- (Private project, no public link)
+
+### 15. Business Finance Tracker
+- **Tech:** Python (Flask), SQLAlchemy, PyPDF
+- **Role:** Full-stack Developer
+- **Summary:** Built a Python-based finance management system for Hungarian entrepreneurs. Features automated PDF/RTF extraction, database storage with CRUD API, monthly income/expense tracking, and debt analysis. Includes Hungarian tax system integration (ÁFA, TB, SZOCHO, SZJA).
+- [GitHub Repository](https://github.com/castorland/business-finance-python)
+
 ---
 
 ## Contact
